@@ -1,0 +1,83 @@
+Order,Tag,Event,Canonical,Noncanonical,Frequency
+01.00,WinningOfMary,Joseph choosing Mary,0,4,4
+02.00,AngelAppearstoMary,Angel appears to Mary,2,6,8
+03.00,MaryNotVirgin,Mary not a virgin,0,2,2
+04.00,MaryVisitsElizabeth,Mary visits Elizabeth,2,2,4
+05.00,AngelAppearstoJoseph,Angel appears to Joseph,2,4,6
+06.00,GoToBethlehem,Road to Bethlehem,2,10,12
+07.00,MidwifeInCave,Midwife in cave,0,4,4
+08.00,Shepherds,Shepherds,2,4,6
+09.00,PresentedinTemple,Present to temple,2,0,2
+10.00,Magi,Magi,2,8,10
+11.00,FleetoEgypt,Flee to Egypt,2,6,8
+12.00,AnimalsFollowJesus,Animals follow Jesus,0,2,2
+13.00,JesusBendsTree,Jesus bends tree,0,2,2
+14.00,EgyptianTemple,Enter EgyptianTemple,0,2,2
+15.00,ControlWater,Controls water,0,6,6
+16.00,ClaySparrow,Clay Sparrow,0,4,4
+17.00,KillsWithWords,Kills with words,0,2,2
+18.00,Zacchaeus,Zacchaeus,0,8,8
+19.00,RevivesFriend,Revives friend,0,6,6
+20.00,CarryWaterinCloak,Water in cloak,0,6,6
+21.00,LengthensWood,Elongates wood,0,6,6
+22.00,ViperBite,Heals snake bite,0,2,2
+23.00,DuplicateWheat,Duplicate wheat,0,2,2
+24.00,CommandsFish,Commands fish,0,0,0
+25.00,GrowsinNazareth,Grows in Nazareth,2,0,2
+26.00,PassoverinTemple,Visits temple for Passover,2,0,2
+27.00,BaptismofJesus,"Baptism of Jesus ",6,0,6
+28.00,TemptedinWilderness,Tempted in Wild,6,0,6
+29.00,OutofTemple_Nazareth,Thrown from Nazareth,4,0,4
+30.00,Spirit_Capernaum,Unclean Spirit in Capernaum,4,2,6
+31.00,Simon_Capernaum,Simon's Mothers Healing,6,2,8
+32.00,OutofTemple_Capernaum,Thrown out of Capernaum,0,2,2
+33.00,Simons_Calling,Simon's Calling,8,2,10
+34.00,LeperWhoSpreadWord,Asked leper to secrecy,6,2,8
+35.00,ManThroughRoof,Heal Paralyptic Man,4,2,6
+36.00,LeviCommission,Levi's Calling,2,2,4
+37.00,PluckCorn,Take Corn from Field,6,2,8
+38.00,WitheredHandonSabbath,Heal withered hand,6,2,8
+39.00,DiscipleCommission,Disciples' Calling,6,2,8
+40.00,SermonOnTheMount,Sermon on the Mount,2,2,4
+41.00,CenturionServant,Centurion's servant,4,2,6
+42.00,DinnerWithSinners,Dinner with Pharisee,2,0,2
+43.00,Beelzebul,Beelzebul,6,0,6
+44.00,ParableOfSower,Parable of Sower,4,2,6
+45.00,CalmingOfStorm,Calming of Storm,6,0,6
+46.00,ExorcismofLegion,Legion's Exorcism,4,0,4
+47.00,RaiseDaughter,Raise dead daughter,6,2,8
+48.00,PhilipandNathanael,Philip's Calling,2,0,2
+49.00,WeddingatCana,Wedding at Cana,2,0,2
+50.00,CleansingofTemple,Cleaning of Temple,6,0,6
+51.00,Nicodemus,Nicodemus,2,2,4
+52.00,SamaritanWoman,Samaritan Woman,2,0,2
+53.00,HealingSoninCapernaum,Heal son in Capernaum,2,0,2
+54.00,FeedingFiveThousand,Feeding Five Thousand,8,0,8
+55.00,MissionofSeventy,Mission of Seventy,2,0,2
+56.00,WalksOnWater,Walks on water,6,0,6
+57.00,GoodSamaritan,Good Samaritan,2,0,2
+58.00,OurFather,Our Father,2,0,2
+59.00,HealsCrippledWoman,Heals woman on Sabbath,2,0,2
+60.00,LostSheep,Lost sheep,4,0,4
+61.00,LostCoin,Lost coin,2,0,2
+62.00,Prodigal,Prodigal son,2,0,2
+63.00,TenLepers,Heals ten lepers,2,0,2
+64.00,ZacchaeusRepents,Zacchaeus Repents,2,0,2
+65.00,FeedingFourThousand,Feeding Four Thousand,4,0,4
+66.00,WomanCaughtinAdultery,Adulterous Woman,2,0,2
+67.00,ParableofGoodShepherd,Good Shepherd,2,0,2
+68.00,JewsTrytoStone,JewsTrytoStone,2,0,2
+69.00,MaryMagdaleneAsLover,Magdalene as lover,0,2,2
+70.00,Lazarus,Rising of Lazarus,2,2,4
+71.00,MaryAnointsFeet,Mary anoints feet,4,0,4
+72.00,PalmSunday,Palm Sunday,8,2,10
+73.00,WashingofFeet,Washing of feet,2,0,2
+74.00,NewCommandment,New Commandment,2,0,2
+75.00,Arrest,Jesus' arrest,8,0,8
+76.00,HighPriest,High Priest,6,0,6
+77.00,MockeryofChrist,Mock Christ,2,4,6
+78.00,PeterDenies,Peter's denial,6,0,6
+79.00,PilatesDecision,Pilate's decision,4,2,6
+80.00,Crucifixion,Crucifixion,8,4,12
+81.00,ForgivenCriminal,Crucified criminals,0,2,2
+82.00,Resurrection,Resurrection,8,6,14
